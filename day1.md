@@ -52,7 +52,7 @@ NodeOS：操作系统
 ###三.如何安装node.js
 [如何安装node.js](http://www.imooc.com/video/6691)  
 ###四。node.js写helloworld
-起一个web服务器  
+[起一个web服务器](http://nodejs.cn/doc/node/synopsis.html)  
 
   
 1.设置自己的文件夹，在文件夹beginning里新增server.js
